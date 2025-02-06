@@ -1,0 +1,75 @@
+.dark{
+  background-color: rgb(60, 61, 55);
+  color: #fff;
+  transition: all 0.5s ease;
+  .navbar-container a{
+    background-color: rgb(99, 89, 133);
+    color: #fff;
+  }
+  .projects-wrapper{
+    background-color: rgb(105, 117, 101)
+  }
+  .projects-wrapper a{
+    background-color: rgb(99, 89, 133);
+    color: #fff;
+  }
+  .contact-wrapper a{
+    background-color: rgb(99, 89, 133);
+    color: #fff;
+  }
+  .footer-container{
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    }
+
+@media screen and (max-width: 960px) {
+  .navbar-container .nav-menu a{
+    /* background-color: rgb(99, 89, 133); */
+    box-shadow: none;
+  }
+  .navbar-container .nav-menu a:hover{
+    background-color: rgb(69, 71, 75);
+  }
+}
+}
+.light{
+  background-color: #fff;
+  color: black;
+  transition: all 0.5s ease;
+  .navbar-container{
+    box-shadow: 0 2px 10px #000;
+  }
+  .navbar-container a{
+    background-color: rgb(99, 89, 133);
+    color: black;
+  }
+  .projects-wrapper{
+    background-color: rgb(105, 117, 101)
+  }
+  .projects-wrapper a{
+    background-color: rgb(99, 89, 133);
+    color: black;
+  }
+  .contact-wrapper a{
+    background-color: rgb(99, 89, 133);
+    color: black;
+  }
+  .footer-container{
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    }
+  @media screen and (max-width: 960px) {
+    .navbar-container .nav-menu a{
+      /* background-color: rgb(99, 89, 133); */
+      box-shadow: none;
+    }
+    .navbar-container .nav-menu a:hover{
+      background-color: #fff;
+    }
+  }
+}
+#portfolio-container{
+  /* height: 100dvh; */
+}
