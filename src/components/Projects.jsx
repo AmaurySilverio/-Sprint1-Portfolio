@@ -34,7 +34,7 @@ const Projects = () => {
         <ProjectCard
           imgSrc="/images/naruto-card-game.gif"
           cardTitle="Matching Game"
-          cardText="Naruto Themed Matching card game created using Javascript, CSS &
+          cardText="Naruto Matching card game created using Javascript, CSS &
           HMTL."
           buttonText="View Project"
           buttonHref="https://narutocardgame.netlify.app/"
