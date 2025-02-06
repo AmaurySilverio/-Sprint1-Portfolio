@@ -2,3 +2,5 @@
 
 1. cd to /portfolio directory & run npm install
 2. run npm run dev
+
+![screenshot](public/images/sample-portfolio-screenshot.png)
