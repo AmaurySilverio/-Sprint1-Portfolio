@@ -30,6 +30,7 @@ const Projects = () => {
           cardText="NYT Connections clone where you can create your own custom game!"
           buttonText="View Project"
           buttonHref="https://freestyleconnections.onrender.com/"
+          buttonTarget="_blank"
         />
         <ProjectCard
           imgSrc="/images/naruto-card-game.gif"
@@ -38,6 +39,7 @@ const Projects = () => {
           HMTL."
           buttonText="View Project"
           buttonHref="https://narutocardgame.netlify.app/"
+          buttonTarget="_blank"
         />
         <ProjectCard
           imgSrc="/images/ASL-Lingo.gif"
@@ -45,7 +47,8 @@ const Projects = () => {
           cardText="Full-Stack Application that teaches users basic American Sign
           Language."
           buttonText="View Project"
-          buttonHref="https://freestyleconnections.onrender.com/"
+          buttonHref="https://asl-lingo.onrender.com/"
+          buttonTarget="_blank"
         />
       </div>
     </div>

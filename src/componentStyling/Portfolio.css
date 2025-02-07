@@ -34,8 +34,7 @@
 }
 }
 .light{
-  /* background-color: #fff; */
-  background-color: rgb(232, 228, 201);
+  background-color: #fff;
   color: black;
   transition: all 0.5s ease;
   .navbar-container{
@@ -67,8 +66,7 @@
       box-shadow: none;
     }
     .navbar-container .nav-menu a:hover{
-      /* background-color: #fff; */
-      background-color: rgb(232, 228, 201);
+      background-color: #fff;
     }
   }
 }
