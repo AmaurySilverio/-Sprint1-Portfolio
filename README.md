@@ -4,7 +4,8 @@ This is a portfolio website created using React that includes a dark mode and li
 
 # How To Run
 
-1. cd to /portfolio directory & run npm install
-2. run npm run dev
+1. Clone repo
+2. cd to /-Sprint1-Portfolio directory & run: npm install
+3. run: npm run dev
 
 ![screenshot](public/images/portfolio-screenshot.png)
